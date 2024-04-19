@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thesequelsho
-- 👀 I’m interested in the RED team and developing my skills to be very proficient. Also, would love to develop a deep understanding of computer forensics and what it takes to be an expert in this area. Lastly, I am interested in energy and how it will be stored and protected in the future.  
+- 👀 I seek to develop techonolgy that could make an impact within the world that I grew up in. Currently, I am creating a ranking system for basketball players. 
 - 🌱 I have passed my Security+ (April 2022) and Network+ (March 2023)
 - 💞️ I’m looking to collaborate on a new porject that I can sharpen my skills.
 - 📫 How to reach me: https://www.linkedin.com/in/shomariwellington/
